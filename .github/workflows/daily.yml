@@ -2,7 +2,28 @@ name: Daily Auto Commit
 
 on:
   schedule:
-    - cron: '30 18 * * *'  # Roz 12:00 AM IST
+    - cron: '0 18 * * *'
+    - cron: '0 19 * * *'
+    - cron: '0 20 * * *'
+    - cron: '0 21 * * *'
+    - cron: '0 22 * * *'
+    - cron: '0 23 * * *'
+    - cron: '0 0 * * *'
+    - cron: '0 1 * * *'
+    - cron: '0 2 * * *'
+    - cron: '0 3 * * *'
+    - cron: '0 4 * * *'
+    - cron: '0 5 * * *'
+    - cron: '0 6 * * *'
+    - cron: '0 7 * * *'
+    - cron: '0 8 * * *'
+    - cron: '0 9 * * *'
+    - cron: '0 10 * * *'
+    - cron: '0 11 * * *'
+    - cron: '0 12 * * *'
+    - cron: '0 13 * * *'
+    - cron: '0 14 * * *'
+    - cron: '0 15 * * *'
   workflow_dispatch:
 
 jobs:
@@ -24,5 +45,5 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add daily-log.txt
-          git commit -m "🤖 Daily auto commit - $(date '+%Y-%m-%d')"
+          git commit -m "🤖 Auto commit - $(date '+%Y-%m-%d %H:%M:%S')"
           git push

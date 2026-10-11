@@ -69,24 +69,24 @@ A bit more about me:
       <h2>Contributed Projects</h2>
       <ul>
         <li>
-  🦆 <a href="https://github.com/Sunil56224972/pico-rubber-ducky"><b>pico-rubber-ducky</b></a> - BadUSB payload device using Raspberry Pi Pico — <code>python payload.py</code>
+  🦆 <a href="https://github.com/semantica-agi/semantica"><b>pico-rubber-ducky</b></a> - BadUSB payload device using Raspberry Pi Pico — <code>python payload.py</code>
 </li>
         <li>
-          🪲 <a href="https://github.com/Sunil56224972/Trojan.Cockroach"><b>Trojan.Cockroach</b></a> - A stealthy Trojan/RAT built in C++ that survives like a cockroach 😈
+          🪲 <a href="https://github.com/usekaneo/kaneo"><b>Trojan.Cockroach</b></a> - A stealthy Trojan/RAT built in C++ that survives like a cockroach 😈
         </li>
          <li>
-  📡 <a href="https://github.com/Sunil56224972/ESP8266_WiFi_Captive_Portal_2.1"><b>ESP8266 Captive Portal</b></a> - Evil Twin attack via ESP8266 — traps victims in a fake WiFi login page
+  📡 <a href="https://github.com/addyosmani/agent-skills"><b>ESP8266 Captive Portal</b></a> - Evil Twin attack via ESP8266 — traps victims in a fake WiFi login page
 </li>
         <li>
-          🔑 <a href="https://github.com/Sunil56224972/WifiPassword-Stealer.1"><b>WiFi Password Stealer</b></a> - Extracts saved WiFi credentials silently using Python
+          🔑 <a href="https://github.com/bilawalsidhu/gods-eye-view"><b>WiFi Password Stealer</b></a> - Extracts saved WiFi credentials silently using Python
         </li>
       <li>
-  💥 <a href="https://github.com/Sunil56224972/wifi-blaster"><b>wifi-blaster</b></a> - WiFi deauthentication tool — kicks devices off networks
+  💥 <a href="https://github.com/mvschwarz/openrig"><b>wifi-blaster</b></a> - WiFi deauthentication tool — kicks devices off networks
 </li>
 
 </li>
 <li>
- 🎓 <a href="https://github.com/Sunil56224972/-Face-Recognition-based-Smart-Attendance-System-using-IoT.Sunil"><b>Face Recognition Attendance</b></a> - Smart IoT attendance system powered by face recognition in C
+ 🎓 <a href="https://github.com/facebook/astryx"><b>Face Recognition Attendance</b></a> - Smart IoT attendance system powered by face recognition in C
 </li>
       </ul>
     </td>

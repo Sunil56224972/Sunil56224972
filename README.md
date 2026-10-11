@@ -66,7 +66,7 @@ A bit more about me:
 <table>
   <tr>
     <td valign="top" width="60%">
-      <h2>Contributed Projects</h2>
+      <h2 align="center">Contributed Projects</h2>
       <ul>
         <li>
   🧠 <a href="https://github.com/semantica-agi/semantica"><b>Semantica</b></a> - Open-source AGI research platform with semantic memory, plugins & MCP integration

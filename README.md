@@ -66,7 +66,7 @@ A bit more about me:
 <table>
   <tr>
     <td valign="top" width="60%">
-      <h2>Projects</h2>
+      <h2>Contributed Projects</h2>
       <ul>
         <li>
   🦆 <a href="https://github.com/Sunil56224972/pico-rubber-ducky"><b>pico-rubber-ducky</b></a> - BadUSB payload device using Raspberry Pi Pico — <code>python payload.py</code>

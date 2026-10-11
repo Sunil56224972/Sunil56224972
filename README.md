@@ -89,6 +89,12 @@ A bit more about me:
         <li>
   📄 <a href="https://github.com/firecrawl/pdf-inspector"><b>PDF Inspector</b></a> - AI-powered PDF analysis & data extraction tool by Firecrawl
 </li>
+        <li>
+  ☁️ <a href="https://github.com/appwrite/appwrite"><b>Appwrite</b></a> - Open-source Backend-as-a-Service platform powering Auth, Databases, Storage & Functions
+</li>
+        <li>
+  🎮 <a href="https://github.com/rommapp/romm"><b>RomM</b></a> - Beautiful, self-hosted ROM manager with IGDB metadata integration & multi-platform support
+</li>
       </ul>
     </td>
     <td valign="top" width="40%">

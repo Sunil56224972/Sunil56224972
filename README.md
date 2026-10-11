@@ -86,6 +86,9 @@ A bit more about me:
         <li>
   🔮 <a href="https://github.com/facebook/astryx"><b>Astryx</b></a> - Facebook's open-source text editor framework with rich text & collaboration features
 </li>
+        <li>
+  📄 <a href="https://github.com/firecrawl/pdf-inspector"><b>PDF Inspector</b></a> - AI-powered PDF analysis & data extraction tool by Firecrawl
+</li>
       </ul>
     </td>
     <td valign="top" width="40%">

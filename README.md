@@ -107,7 +107,7 @@ A bit more about me:
      </samp>
 </p>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sunil56224972&bg_color=0d1117&color=00FF41&line=00FF41&point=ffffff&area=true&hide_border=false" alt="Contribution Graph" width="900" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sunil56224972&show_icons=true&theme=radical&hide_border=false&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=ffffff&count_private=true" alt="GitHub Stats" width="900" />
 </p>
     </td>
   </tr>

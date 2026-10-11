@@ -69,24 +69,22 @@ A bit more about me:
       <h2>Contributed Projects</h2>
       <ul>
         <li>
-  🦆 <a href="https://github.com/semantica-agi/semantica"><b>pico-rubber-ducky</b></a> - BadUSB payload device using Raspberry Pi Pico — <code>python payload.py</code>
+  🧠 <a href="https://github.com/semantica-agi/semantica"><b>Semantica</b></a> - Open-source AGI research platform with semantic memory, plugins & MCP integration
 </li>
         <li>
-          🪲 <a href="https://github.com/usekaneo/kaneo"><b>Trojan.Cockroach</b></a> - A stealthy Trojan/RAT built in C++ that survives like a cockroach 😈
+          🛠️ <a href="https://github.com/usekaneo/kaneo"><b>Kaneo</b></a> - Open-source project management tool with AI-powered workflows & Docker deployment
         </li>
-         <li>
-  📡 <a href="https://github.com/addyosmani/agent-skills"><b>ESP8266 Captive Portal</b></a> - Evil Twin attack via ESP8266 — traps victims in a fake WiFi login page
+        <li>
+  🤖 <a href="https://github.com/addyosmani/agent-skills"><b>Agent Skills</b></a> - Curated collection of reusable skills for AI coding agents by Addy Osmani
 </li>
         <li>
-          🔑 <a href="https://github.com/bilawalsidhu/gods-eye-view"><b>WiFi Password Stealer</b></a> - Extracts saved WiFi credentials silently using Python
+          👁️ <a href="https://github.com/bilawalsidhu/gods-eye-view"><b>Gods Eye View</b></a> - Real-time geospatial data visualization and analytics platform
         </li>
-      <li>
-  💥 <a href="https://github.com/mvschwarz/openrig"><b>wifi-blaster</b></a> - WiFi deauthentication tool — kicks devices off networks
+        <li>
+  ⚡ <a href="https://github.com/mvschwarz/openrig"><b>OpenRig</b></a> - Open-source AI infrastructure toolkit for building & deploying ML pipelines
 </li>
-
-</li>
-<li>
- 🎓 <a href="https://github.com/facebook/astryx"><b>Face Recognition Attendance</b></a> - Smart IoT attendance system powered by face recognition in C
+        <li>
+  🔮 <a href="https://github.com/facebook/astryx"><b>Astryx</b></a> - Facebook's open-source text editor framework with rich text & collaboration features
 </li>
       </ul>
     </td>

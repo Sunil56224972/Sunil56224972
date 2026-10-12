@@ -69,31 +69,31 @@ A bit more about me:
       <h2 align="center">Contributed Projects</h2>
       <ul>
         <li>
-  🧠 <a href="https://github.com/semantica-agi/semantica"><b>Semantica</b></a> - Open-source AGI research platform with semantic memory, plugins & MCP integration
+  🧠 <a href="https://github.com/semantica-agi/semantica"><b>Semantica</b></a> <img src="https://img.shields.io/github/stars/semantica-agi/semantica?style=flat-square&color=FFD700&labelColor=333333" alt="stars" /> - Open-source AGI research platform with semantic memory, plugins & MCP integration
 </li>
         <li>
-          🛠️ <a href="https://github.com/usekaneo/kaneo"><b>Kaneo</b></a> - Open-source project management tool with AI-powered workflows & Docker deployment
+          🛠️ <a href="https://github.com/usekaneo/kaneo"><b>Kaneo</b></a> <img src="https://img.shields.io/github/stars/usekaneo/kaneo?style=flat-square&color=FFD700&labelColor=333333" alt="stars" /> - Open-source project management tool with AI-powered workflows & Docker deployment
         </li>
         <li>
-  🤖 <a href="https://github.com/addyosmani/agent-skills"><b>Agent Skills</b></a> - Curated collection of reusable skills for AI coding agents by Addy Osmani
+  🤖 <a href="https://github.com/addyosmani/agent-skills"><b>Agent Skills</b></a> <img src="https://img.shields.io/github/stars/addyosmani/agent-skills?style=flat-square&color=FFD700&labelColor=333333" alt="stars" /> - Curated collection of reusable skills for AI coding agents by Addy Osmani
 </li>
         <li>
-          👁️ <a href="https://github.com/bilawalsidhu/gods-eye-view"><b>Gods Eye View</b></a> - Real-time geospatial data visualization and analytics platform
+          👁️ <a href="https://github.com/bilawalsidhu/gods-eye-view"><b>Gods Eye View</b></a> <img src="https://img.shields.io/github/stars/bilawalsidhu/gods-eye-view?style=flat-square&color=FFD700&labelColor=333333" alt="stars" /> - Real-time geospatial data visualization and analytics platform
         </li>
         <li>
-  ⚡ <a href="https://github.com/mvschwarz/openrig"><b>OpenRig</b></a> - Open-source AI infrastructure toolkit for building & deploying ML pipelines
+  ⚡ <a href="https://github.com/mvschwarz/openrig"><b>OpenRig</b></a> <img src="https://img.shields.io/github/stars/mvschwarz/openrig?style=flat-square&color=FFD700&labelColor=333333" alt="stars" /> - Open-source AI infrastructure toolkit for building & deploying ML pipelines
 </li>
         <li>
-  🔮 <a href="https://github.com/facebook/astryx"><b>Astryx</b></a> - Facebook's open-source text editor framework with rich text & collaboration features
+  🔮 <a href="https://github.com/facebook/astryx"><b>Astryx</b></a> <img src="https://img.shields.io/github/stars/facebook/astryx?style=flat-square&color=FFD700&labelColor=333333" alt="stars" /> - Facebook's open-source text editor framework with rich text & collaboration features
 </li>
         <li>
-  📄 <a href="https://github.com/firecrawl/pdf-inspector"><b>PDF Inspector</b></a> - AI-powered PDF analysis & data extraction tool by Firecrawl
+  📄 <a href="https://github.com/firecrawl/pdf-inspector"><b>PDF Inspector</b></a> <img src="https://img.shields.io/github/stars/firecrawl/pdf-inspector?style=flat-square&color=FFD700&labelColor=333333" alt="stars" /> - AI-powered PDF analysis & data extraction tool by Firecrawl
 </li>
         <li>
-  ☁️ <a href="https://github.com/appwrite/appwrite"><b>Appwrite</b></a> - Open-source Backend-as-a-Service platform powering Auth, Databases, Storage & Functions
+  ☁️ <a href="https://github.com/appwrite/appwrite"><b>Appwrite</b></a> <img src="https://img.shields.io/github/stars/appwrite/appwrite?style=flat-square&color=FFD700&labelColor=333333" alt="stars" /> - Open-source Backend-as-a-Service platform powering Auth, Databases, Storage & Functions
 </li>
         <li>
-  🎮 <a href="https://github.com/rommapp/romm"><b>RomM</b></a> - Beautiful, self-hosted ROM manager with IGDB metadata integration & multi-platform support
+  🎮 <a href="https://github.com/rommapp/romm"><b>RomM</b></a> <img src="https://img.shields.io/github/stars/rommapp/romm?style=flat-square&color=FFD700&labelColor=333333" alt="stars" /> - Beautiful, self-hosted ROM manager with IGDB metadata integration & multi-platform support
 </li>
       </ul>
     </td>

@@ -95,6 +95,9 @@ A bit more about me:
         <li>
   <a href="https://github.com/rommapp/romm"><b>RomM</b></a> <img src="https://img.shields.io/github/stars/rommapp/romm?style=flat-square&color=FFD700&labelColor=333333" alt="stars" /> - Beautiful, self-hosted ROM manager with IGDB metadata integration & multi-platform support
 </li>
+        <li>
+  <a href="https://github.com/morluto/rea"><b>REA</b></a> <img src="https://img.shields.io/github/stars/morluto/rea?style=flat-square&color=FFD700&labelColor=333333" alt="stars" /> - Reverse Engineer Anything — MCP for reverse engineering across binaries, apps & runtime behavior
+</li>
       </ul>
     </td>
     <td valign="top" width="40%">

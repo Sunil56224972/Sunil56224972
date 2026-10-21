@@ -98,6 +98,9 @@ A bit more about me:
         <li>
   <a href="https://github.com/morluto/rea"><b>REA</b></a> <img src="https://img.shields.io/github/stars/morluto/rea?style=flat-square&color=FFD700&labelColor=333333" alt="stars" /> - Reverse Engineer Anything — MCP for reverse engineering across binaries, apps & runtime behavior
 </li>
+        <li>
+  <a href="https://github.com/akitaonrails/ai-memory"><b>AI Memory</b></a> <img src="https://img.shields.io/github/stars/akitaonrails/ai-memory?style=flat-square&color=FFD700&labelColor=333333" alt="stars" /> - Persistent memory layer for AI coding agents with local vector storage & MCP integration
+</li>
       </ul>
     </td>
     <td valign="top" width="40%">

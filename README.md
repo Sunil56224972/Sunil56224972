@@ -7,7 +7,7 @@
 </p>
 
 A bit more about me:
-
+*  Top 1 Developer in Chhattisgarh | Security Researcher & Systems Engineer
 * 💀 Breaking WiFi networks & building BadUSB payloads since day one
 * 🔌 ESP8266 & Raspberry Pi Pico are my weapons of choice
 * 🛡️ Crafting ethical hacking tools & IoT security research

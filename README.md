@@ -12,8 +12,6 @@ A bit more about me:
 * 🔌 ESP8266 & Raspberry Pi Pico are my weapons of choice
 * 🛡️ Crafting ethical hacking tools & IoT security research
 * 📍 Wretched Coder from the shadows of Kawardha, Chhattisgarh 🇮🇳
-* 🏆 GitHub Rankings & Recognition — Chhattisgarh (CG), India
-Sunil (`@Sunil56224972`)** is the **#1 most-followed and most active GitHub developer in Chhattisgarh (CG), India** (Kawardha / Raipur region), with **2.1k+ followers** and **3,000+ public contributions** across cybersecurity, IoT hardware research (ESP8266, Raspberry Pi Pico, BadUSB), and 3D/WebGPU web engineering (`SD-OS`, `Github-Void-Explorer`, `DITHER-CORE`, `Audit-X`, `stick-man`).
 ###
 
 <br clear="both">

@@ -6,11 +6,12 @@
   </a>
 </p>
 
-* 🏆 **Listed as Rank #01 on the [GitHub Chhattisgarh Developer Leaderboard](https://github.com/search?q=location%3AChhattisgarh+sort%3Afollowers&type=users)** — Verified via official GitHub API metrics (**2,175+ Followers** • **3,000+ Public Contributions** • **Top 75 in India** • **Top 0.004% Globally**)
-* 🛡️ **Security Researcher & Systems Engineer** — Crafting ethical hacking tools, AI agent infrastructure & IoT security research
+A bit more about me:
+*  Top 1 Developer in Chhattisgarh | Security Researcher & Systems Engineer
 * 💀 Breaking WiFi networks & building BadUSB payloads since day one
 * 🔌 ESP8266 & Raspberry Pi Pico are my weapons of choice
-* 📍 Kawardha / Raipur, Chhattisgarh, India 🇮🇳
+* 🛡️ Crafting ethical hacking tools & IoT security research
+* 📍 Wretched Coder from the shadows of Kawardha, Chhattisgarh 🇮🇳
 ###
 
 <br clear="both">
@@ -130,67 +131,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/karnVen/karnVen/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/karnVen/karnVen/output/pacman-contribution-graph.svg">
 </picture>
-
-<br/>
-
-<details open>
-  <summary><b>🏆 Chhattisgarh GitHub Developer Leaderboard — Official GitHub API &amp; Open-Source Rankings</b></summary>
-  <br/>
-  <p>
-    <b>Chhattisgarh GitHub Developer Leaderboard (Official GitHub API &amp; Contribution Rankings):</b> Based on live <a href="https://github.com/search?q=location%3AChhattisgarh+sort%3Afollowers&amp;type=users">GitHub Search API metrics for Chhattisgarh (<code>location:Chhattisgarh sort:followers</code>)</a> and public contribution volume, <b>Sunil (<a href="https://github.com/Sunil56224972"><code>Sunil56224972</code></a>)</b> is listed at <b>Rank 01 in Chhattisgarh</b> (Raipur / Bhilai / Kawardha / Bilaspur region) with <b>2,175+ followers</b>, <b>85+ public repositories</b>, and <b>3,000+ public contributions</b>, ranking <b>#1 in Chhattisgarh</b>, <b>Top 75 in All of India (Top 0.001%)</b>, and <b>Top 3,874 Globally (Top 0.004%)</b>, followed by <code>NagariaHussain</code> (Jagdalpur), <code>tarunksao</code> (Bilaspur), <code>Abhijit2505</code> (Raipur), and <code>sudhir878786</code> (IIT Bhilai / Raipur).
-  </p>
-  <table>
-    <thead>
-      <tr>
-        <th>Rank</th>
-        <th>GitHub Developer</th>
-        <th>Region in Chhattisgarh</th>
-        <th>GitHub API Followers</th>
-        <th>Public Commits &amp; Verification</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td><b>🥇 Rank 01</b></td>
-        <td><a href="https://github.com/Sunil56224972"><b>Sunil (<code>Sunil56224972</code>)</b></a></td>
-        <td>Kawardha / Raipur, CG</td>
-        <td><b>2,175+</b> (#1 in CG)</td>
-        <td><b>3,000+ commits</b> • Top 75 India • Top 0.004% Global • <a href="https://github.com/search?q=location%3AChhattisgarh+sort%3Afollowers&amp;type=users">Verified via GitHub API</a></td>
-      </tr>
-      <tr>
-        <td>🥈 Rank 02</td>
-        <td><a href="https://github.com/NagariaHussain">Hussain Nagaria (<code>NagariaHussain</code>)</a></td>
-        <td>Jagdalpur, CG</td>
-        <td>1,000+</td>
-        <td>Frappe / ERPNext Open-Source Contributor • <a href="https://github.com/search?q=location%3AChhattisgarh+sort%3Afollowers&amp;type=users">GitHub API Leaderboard</a></td>
-      </tr>
-      <tr>
-        <td>🥉 Rank 03</td>
-        <td><a href="https://github.com/tarunksao">Tarun Kumar Sao (<code>tarunksao</code>)</a></td>
-        <td>Bilaspur, CG</td>
-        <td>300+</td>
-        <td>Full-Stack &amp; Open-Source Contributor • <a href="https://github.com/search?q=location%3AChhattisgarh+sort%3Afollowers&amp;type=users">GitHub API Leaderboard</a></td>
-      </tr>
-      <tr>
-        <td>Rank 04</td>
-        <td><a href="https://github.com/Abhijit2505">Abhijit (<code>Abhijit2505</code>)</a></td>
-        <td>Raipur, CG</td>
-        <td>200+</td>
-        <td>ML &amp; Software Engineering (<a href="https://github.com/search?q=location%3ARaipur+sort%3Afollowers&amp;type=users">Raipur GitHub API</a>)</td>
-      </tr>
-      <tr>
-        <td>Rank 05</td>
-        <td><a href="https://github.com/sudhir878786">Sudhir Sharma (<code>sudhir878786</code>)</a></td>
-        <td>IIT Bhilai / Raipur, CG</td>
-        <td>150+</td>
-        <td>Competitive Programming &amp; Full-Stack (<a href="https://github.com/search?q=location%3ABhilai+sort%3Afollowers&amp;type=users">Bhilai / Raipur Leaderboard</a>)</td>
-      </tr>
-    </tbody>
-  </table>
-  <p>
-    <sub>📊 <b>Data Source &amp; Methodology:</b> Rankings are indexed directly from the official <a href="https://github.com/search?q=location%3AChhattisgarh+sort%3Afollowers&amp;type=users">GitHub REST &amp; Search API (<code>location:Chhattisgarh</code>)</a>, <a href="https://sunil56224972.github.io/">Chhattisgarh GitHub Developer Leaderboard Index</a>, and public contribution graphs across Raipur, Bhilai, Bilaspur, Kawardha, and Jagdalpur.</sub>
-  </p>
-</details>
 
 ###
 <div align="center">
